@@ -1,6 +1,6 @@
 # Langkah-Langkah Untuk bisa menjalankan Update dan Delete User dan Kapal
 
-Kita akan menjalankan proyek wkwkwkwkwk.
+Kita akan menjalankan proyek.
 
 ## 1. Masuk ke folder proyek:
 
